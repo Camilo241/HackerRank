@@ -1,6 +1,6 @@
 package Java.Basico;
 import java.util.*;
-public class InicializacionBloqueEstatico {
+public class Inicializacion_Bloque_Estatico {
 
 static int B;
 static int H;

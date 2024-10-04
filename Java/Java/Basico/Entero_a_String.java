@@ -2,7 +2,7 @@ package Java.Basico;
 
 import java.util.*;
 
-public class EnteroaString {
+public class Entero_a_String {
 
     public static void main(String[] args) {
 
