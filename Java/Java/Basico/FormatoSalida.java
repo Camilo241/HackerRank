@@ -1,4 +1,4 @@
-package Java;
+package Java.Basico;
 import java.util.Scanner;
 public class FormatoSalida {
     public static void main(String[] args) {
