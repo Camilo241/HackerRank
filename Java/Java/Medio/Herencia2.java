@@ -1,14 +1,11 @@
 package Java.Medio;
-
-import java.util.Scanner;
-
-class Adder{
-    Scanner sc = new Scanner(System.in);
-    int a = sc.nextInt();
-    int b = sc.nextInt();
-    int add(int a,int b){
+class Aritmetic{
+    public int add(int a,int b){
         return a + b;
     }
+}
+class Adder extends Aritmetic{
+
 }
 public class Herencia2 {
     public static void main(String []args){
