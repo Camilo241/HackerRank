@@ -23,6 +23,7 @@ class MotorCycle extends BiCycle{
 
 public class Sobrecarga_Métodos_2_Palabra_Clave_Super {
     public static void main(String []args){
-		MotorCycle M = new MotorCycle();
+		@SuppressWarnings("unused")
+        MotorCycle M = new MotorCycle();
     }
 }
