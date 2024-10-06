@@ -1,4 +1,4 @@
-package Java.Medio;
+package Java.Basico;
 
 
     class Singleton{

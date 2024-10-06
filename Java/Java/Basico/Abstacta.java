@@ -1,4 +1,4 @@
-package Java.Medio;
+package Java.Basico;
 
 import java.util.Scanner;
 

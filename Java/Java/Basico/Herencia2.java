@@ -1,4 +1,4 @@
-package Java.Medio;
+package Java.Basico;
 class Aritmetic{
     public int add(int a,int b){
         return a + b;
