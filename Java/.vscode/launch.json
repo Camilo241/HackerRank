@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DiaDieciseis",
+            "request": "launch",
+            "mainClass": "DiaDieciseis",
+            "projectName": "Java_d99ec702"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "DiaCatorce",
